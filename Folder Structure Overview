@@ -1,0 +1,11 @@
+Plaintext
+mediflow-ai/
+├── backend/
+│   ├── models/ (User, Appointment)
+│   ├── routes/ (Auth, Appointments)
+│   └── server.js
+├── frontend/
+│   ├── components/ (Dashboard, Navbar)
+│   ├── pages/ (Login, Dashboard)
+│   └── tailwind.config.js
+└── package.json
